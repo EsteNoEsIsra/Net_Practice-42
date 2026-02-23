@@ -87,11 +87,10 @@ completeed_lvl
 
 ##  Resources
 
-- [IP Addressing and Subnetting](http://apuntesdenetworking.blogspot.com/2011/09/subredes-ip-ip-subnetting.html) — 
+- [IP Addressing and Subnetting](http://apuntesdenetworking.blogspot.com/2011/09/subredes-ip-ip-subnetting.html)  
 - [Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html) — Useful tool for verifying subnet calculations
 - `man ip-route` — Linux routing table documentation
- 
-- [youtube tutorials] (https://www.youtube.com/watch?v=s_Ntt6eTn94&list=PLCXqoZAc8-tzD5N5oCyIyEcMg_NDs6o7C) — Tutorials 
+- [youtube playlist](https://www.youtube.com/watch?v=s_Ntt6eTn94&list=PLCXqoZAc8-tzD5N5oCyIyEcMg_NDs6o7C) — Tutorials  
 
 ###  AI Usage
 
